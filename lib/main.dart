@@ -5,7 +5,7 @@ import 'package:input_and_form/pages/list_section.dart';
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Flutter Demo',
+    title: 'SkrapiCoco Demo',
     theme: ThemeData(
         primarySwatch: Colors.blue
     ),
